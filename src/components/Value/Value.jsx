@@ -20,7 +20,7 @@ const Value = () => {
           {/* Left side */}
           <div className="v-left">
             <div className="image-container">
-              <img src="/public/assets/value.png" alt="img" />
+              <img src={`${import.meta.env.BASE_URL}assets/value.png`} alt="img" />
             </div>
           </div>
           {/* Right side */}

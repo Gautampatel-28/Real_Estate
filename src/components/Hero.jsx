@@ -73,7 +73,7 @@ const Hero = () => {
                   }}
           className="flexCenter hero-right">
             <div className="image-container">
-              <img src="/public/assets/hero-image.png" alt="img" />
+              <img src={`${import.meta.env.BASE_URL}assets/hero-image.png`} alt="img" />
             </div>
           </motion.div>
         </div>
