@@ -19,7 +19,7 @@ const Residencies = () => {
           {data.map((card, i) => (
             <SwiperSlide key={i}>
               <div className="flexColStart r-card">
-                <img src={`${import.meta.env.VITE_BASE_URL}${card.image}`} alt="home" />
+                <img src={`/assets/${card.image}`} alt="home" /> {/* Adjusted path */}
 
                 <span className="secondaryText r-price">
                   <span style={{ color: "orange" }}>₹</span><span>{card.price}</span>
