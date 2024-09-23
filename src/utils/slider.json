@@ -3,36 +3,36 @@
     "name": "Rustomjee Elements",
     "price": "2 Crore",
     "detail": "Rustomjee Elements,Andheri West,Mumbai,400048",
-    "image": "./r1.png"
+    "image": "/public/assets/r1.png"
   },
   {
     "name": "Raheja Exotica Sorento",
     "price": "3 Crore",
     "detail": "Raheja Universal Madh Island, Malad West, Mumbai - 400061",
-    "image": "./r2.png"
+    "image": "/public/assets/r2.png"
   },
   {
     "name": "Kanakia Paris",
     "price": "4 Crore",
     "detail": "Chakala Industrial Area (Midc),Near Saibaba Temple,Andheri East, Mumbai - 400093",
-    "image": "./r3.png"
+    "image": "/public/assets/r3.png"
   },
   {
     "name": "Kalpataru Radiance",
     "price": "3 Crore",
     "detail": "Chakala Industrial Area (Midc),Near Saibaba Temple,Andheri East, Mumbai - 400093",
-    "image": "./r4.png"
+    "image": "/public/assets/r4.png"
   },
   {
     "name": "Adani Western Heights",
     "price": "3.5 Crore",
     "detail": "Jp Road, Manish Nagar,bhudargarh Colony,Andheri West, Mumbai - 400047",
-    "image": "./r5.png"
+    "image": "/public/assets/r5.png"
   },
   {
     "name": "Oberoi Esquire",
     "price": "5 Crore",
     "detail": "Oberoi Trade Centre, Andheri (W) Off New Link Road, Mumbai - 400053",
-    "image": "./r6.png"
+    "image": "/public/assets/r6.png"
   }
 ]

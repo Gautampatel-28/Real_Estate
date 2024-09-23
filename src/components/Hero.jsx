@@ -73,7 +73,7 @@ const Hero = () => {
                   }}
           className="flexCenter hero-right">
             <div className="image-container">
-              <img src="${import.meta.env.BASE_URL}/hero-image.png" alt="" />
+              <img src="/public/assets/hero-image.png" alt="img" />
             </div>
           </motion.div>
         </div>
@@ -83,4 +83,3 @@ const Hero = () => {
 };
 
 export default Hero;
-// 40:32 continueee....
